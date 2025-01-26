@@ -2,8 +2,8 @@
 
 # Big O Notation
 
-1. *Basic_Array_Initialization:* 
-2. Array_Sum_Average: O(n)
+**1. Basic_Array_Initialization:
+2. Array_Sum_Average:
 3. LinearSearch_IndexRetrieval:
 4. Sorting_Array:
 5. Matrix_Sum:
@@ -11,7 +11,7 @@
 7. TicTacToe:
 8. Two_Sum:
 9. No_Twos_Or_Fives:
-10. Remove_Duplicates:
+10. Remove_Duplicates:**
 
 # What it does
 
