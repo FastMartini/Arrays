@@ -2,7 +2,7 @@
 
 # Big O Notation
 
-1. Basic_Array_Initialization: 
+1. *Basic_Array_Initialization:* 
 2. Array_Sum_Average: O(n)
 3. LinearSearch_IndexRetrieval:
 4. Sorting_Array:
