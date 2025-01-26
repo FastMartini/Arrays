@@ -2,9 +2,13 @@
 
 # Big O Notation
 
-**1. Basic_Array_Initialization:** The array initialization is *O(1)*, the for loop is *O(n)*, and the enchanced for loop is also *O(n)*; therefore, the complexity is *O(1)* + *O(n)* + *O(n)* = ***O(n)***.
+**1. Basic_Array_Initialization:** 
 
-**2. Array_Sum_Average:** The if-else statement is *O(1)*, the for loop is *O(n)*, and the sum/average calculation is *O(1)*; therefore, *O(1)* + *O(1)* + *O(n)* = ***O(n)***
+The array initialization is *O(1)*, the for loop is *O(n)*, and the enchanced for loop is also *O(n)*; therefore, the complexity is *O(n)* + *O(n)* + *O(1)* = ***O(n)***.
+
+**2. Array_Sum_Average:** 
+
+The if-else statement is *O(1)*, the for loop is *O(n)*, and the sum/average calculation is *O(1)*; therefore, *O(n)* + *O(1)* + *O(1)* = ***O(n)***.
 
 **3. LinearSearch_IndexRetrieval:**
 
@@ -24,11 +28,9 @@
 
 # What it does
 
-# Challenges we ran into
+# Challenges I ran into
 
 # Accomplishments that I am proud of
 
 
-# What we learned
-
-We learned the importance of integrating better programming languages to enhance speed and code quality. Additionally, we gained valuable experience in using open-source resources and implementing them into our project. We also expanded our knowledge of CSS Grid and responsive design, ensuring compatibility across various screen sizes.
+# What I learned
