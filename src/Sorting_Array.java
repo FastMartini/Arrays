@@ -3,6 +3,8 @@ public class Sorting_Array {
 
         int[] numbers = {5, 2, 9, 1, 5, 6};
 
+        printArray(numbers);
+
         bubbleSort(numbers);
 
         printArray(numbers);
@@ -14,6 +16,7 @@ public class Sorting_Array {
 
         for (int i = 0; i < n - 1; i++) {
             swapped = false;
+
 
             for (int j = 0; j < n - 1 - i; j++) {
                 if (numbers[j] > numbers[j+1]) {
