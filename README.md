@@ -36,9 +36,13 @@ The initializeBoard method is *O(BOARD_SIZE²)*, the printBoard method is *O(BOA
 
 The twoSum method has nested for-loop as its largest component, therefore it is *O(n²)*. The main method has input statements and if-else statement making this *O(1)*. As a result: *O(n²)* + *O(1)* = ***O(n²)***. 
 
-**9. No_Twos_Or_Fives:** The no14 method contains a for loop and nested if statements making this an *O(n)* and an *O(1)*. The main method contains input statements and a for loop; so, the output of that is *O(1)* and *O(n)*. Therefore, *O(1)* + *O(1)* + *O(n)* + *O(n)* = ***O(n)*** 
+**9. No_Twos_Or_Fives:** 
 
-**10. Remove_Duplicates:** The removeDuplicates method has a for loop with a nested if statement: *O(n)* and *O(1)*. The main method has declarations, print messages and a for loop: *O(1)*, *O(1)*, *O(n)*. Understanding the rules of Big O notation, the overall complexity is ***O(n)***.
+The no14 method contains a for loop and nested if statements making this an *O(n)* and an *O(1)*. The main method contains input statements and a for loop; so, the output of that is *O(1)* and *O(n)*. Therefore, *O(1)* + *O(1)* + *O(n)* + *O(n)* = ***O(n)*** 
+
+**10. Remove_Duplicates:** 
+
+The removeDuplicates method has a for loop with a nested if statement: *O(n)* and *O(1)*. The main method has declarations, print messages and a for loop: *O(1)*, *O(1)*, *O(n)*. Understanding the rules of Big O notation, the overall complexity is ***O(n)***.
 
 # What it does
 
