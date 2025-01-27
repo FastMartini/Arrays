@@ -100,8 +100,17 @@ duplicates in-place, and returns the number of unique elements in the array.
 The relative order of the unique elements should remain unchanged, and the first k elements in the array should contain the unique values. The remaining elements are not important.
 
 # Challenges I ran into
+**Bubble Sorting:** I wasn't familiar with bubble sorting when I started, and it took some time to understand how the algorithm works. Once I got the hang of it, I realized its simplicity, but initially, it felt a bit complex.
+
+**Tic-Tac-Toe Exercise:** This exercise involved a lot of steps, making it prone to errors. There were many moving parts, which required attention to detail and careful tracking to make sure the game logic worked correctly.
+
+**Matrix Multiplication:** Incorporating equations into the matrix multiplication was a challenge at first. The math involved was tricky, but as I continued working through the code, the process became clearer, and I was able to grasp the logic more effectively.
 
 # Accomplishments that I am proud of
 
+I’m proud of mastering bubble sorting, even though I was initially unfamiliar with the algorithm. Through practice, I was able to understand its logic and successfully implement it. Another accomplishment was building a functional tic-tac-toe game, where I navigated the complexity of multiple steps and ensured all game mechanics worked seamlessly. Additionally, understanding matrix multiplication was challenging at first due to the equations involved, but by persevering through the process, I gained a deeper understanding and was able to implement the operations effectively in code. Overall, I am just glad that I have garnered a deeper and fuller understanding of Arrays.
+
 
 # What I learned
+
+Throughout this project, I learned how to multiply and add matrices, forging an understanding of matrix operations and their applications in coding. I also learned the bubble sort method, which helped me grasp sorting algorithms and their implementation in code. Additionally, I learned how to build a fully functioning tic-tac-toe game.
