@@ -1,8 +1,5 @@
-import java.util.Scanner;
-
 public class Sorting_Array {
     public static void main(String[] args) {
-        Scanner scnr = new Scanner(System.in);
 
         int[] numbers = {5, 2, 9, 1, 5, 6};
 

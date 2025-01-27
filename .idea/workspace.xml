@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a98381d-2dd3-4bfc-baa0-37926a42f410" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Sum_Average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic_Array_Initialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearch_IndexRetrieval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix_Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No_Twos_Or_Fives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Remove_Duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Two_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
