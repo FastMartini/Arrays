@@ -2,7 +2,6 @@
 
 # Big O Notation
 
-***Note: Big-O primarily focuses on the worst-case complexity or the biggest value. Therefore, the answer will always be the biggest value in the expression.***
 
 **1. Basic_Array_Initialization:** 
 
